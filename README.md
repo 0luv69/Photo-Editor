@@ -5,7 +5,7 @@ Welcome to the Photo Editor App, a versatile application crafted with Tkinter, o
 
 ## Features
 1) ### Remove Background:
- - Effortlessly remove backgrounds from images.
+ - Effortlessly remove backgrounds from images. Just In one Click
 2) ### Image Adjustment:
  - Manage Blur, Brightness, Saturation, and Contrast in images.
  - Adjust Color Hue to achieve the desired tone.
@@ -33,6 +33,7 @@ Welcome to the Photo Editor App, a versatile application crafted with Tkinter, o
 
 
 ## How To use App
+## Get tutorial Video : https://youtu.be/srPU6JW-RRA?si=SS_mkqRIsSJEfAZz
 
 Users can interact with the Photo Editor App by following these steps:
 
@@ -40,26 +41,29 @@ Users can interact with the Photo Editor App by following these steps:
 
 2. **Image Loading**: Click on the "Open Image" button to load an image from your file system.
 
-3. **Basic Image Manipulation**:
+   ![Uploading One.png…]()
+
+
+4. **Basic Image Manipulation**:
    - Flip, Rotate, and Straighten images using the primary position segment.
    - Fine-tune X and Y coordinates.
    - Crop images to desired proportions.
 
-4. **Color Adjustment**:
+5. **Color Adjustment**:
    - Convert images to Black and White.
    - Adjust Brightness, Saturation, and Contrast.
 
-5. **Effects**:
+6. **Effects**:
    - Apply Blur effects.
    - Remove Backgrounds.
    - Manipulate Color Hues.
 
-6. **Drawing**:
+7. **Drawing**:
    - Use the pencil brush tool to draw on images.
    - Customize brush sizes and colors.
    - Zoom functionality available for precise drawing.
 
-7. **Saving the Edited Image**: Click on the "Save Image" button to save your edited image.
+8. **Saving the Edited Image**: Click on the "Save Image" button to save your edited image.
 
 
 
