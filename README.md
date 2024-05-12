@@ -1,7 +1,7 @@
 # Photo-Editor
 
 ## Project Description
-Welcome to the Photo Editor App, a versatile application crafted with Tkinter, offering a diverse array of robust features. Our application provides users with intuitive tools to edit, enhance, and personalize their images with ease.
+Welcome to the Photo Editor App, a versatile application crafted with Tkinter, offering a diverse array of robust features. Our application provides users with intuitive tools to edit, enhance, and personalize their images with ease.Fell Free to Clone and Use For the needed purpose
 
 ## Features
 1) ### Remove Background:
