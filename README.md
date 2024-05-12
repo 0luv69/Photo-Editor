@@ -1,4 +1,6 @@
+## Get tutorial Video : https://youtu.be/srPU6JW-RRA?si=SS_mkqRIsSJEfAZz
 # Photo-Editor
+
 
 ## Project Description
 Welcome to the Photo Editor App, a versatile application crafted with Tkinter, offering a diverse array of robust features. Our application provides users with intuitive tools to edit, enhance, and personalize their images with ease.Fell Free to Clone and Use For the needed purpose
@@ -33,16 +35,13 @@ Welcome to the Photo Editor App, a versatile application crafted with Tkinter, o
 
 
 ## How To use App
-## Get tutorial Video : https://youtu.be/srPU6JW-RRA?si=SS_mkqRIsSJEfAZz
+#### Get tutorial Video : https://youtu.be/srPU6JW-RRA?si=SS_mkqRIsSJEfAZz
 
 Users can interact with the Photo Editor App by following these steps:
 
 1. **Launch the App**: Upon running `main.py`, the Photo Editor App GUI will appear.
 
 2. **Image Loading**: Click on the "Open Image" button to load an image from your file system.
-
-   ![Uploading One.png…]()
-
 
 4. **Basic Image Manipulation**:
    - Flip, Rotate, and Straighten images using the primary position segment.
